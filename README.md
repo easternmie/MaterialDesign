@@ -1,2 +1,1 @@
-# MaterialDesign
-# MaterialDesign
+# Sample Android MaterialDesign Template.
